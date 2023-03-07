@@ -1,6 +1,3 @@
 # Ising model simulate
 
-Simulate Ising chain.
-
-* Evolution
-* DNA Transition
+This project is based on the statistical mechanics course.
